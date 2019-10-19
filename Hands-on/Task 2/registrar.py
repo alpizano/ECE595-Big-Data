@@ -37,7 +37,6 @@ for i, row in df.iterrows():
 
 #df['STUDENT'] = df['STUDENT'].astype('str')
 
-
 print(df.dtypes)
 print(len(df.index))
 
